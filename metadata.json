@@ -1,0 +1,8 @@
+{
+  "name": "Remix Recovery Pro Android",
+  "description": "Easily recover deleted photos, videos, and files on your Android device with high precision without needing root access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

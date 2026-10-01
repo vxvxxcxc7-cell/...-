@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Data Recovery</string>
+    <string name="nav_scan">فحص واسترجاع</string>
+    <string name="nav_recovered">الملفات المسترجعة</string>
+    <string name="nav_ai_expert">المستشار الذكي AI</string>
+    <string name="nav_tools">أدوات الفحص</string>
+    
+    <string name="scan_title">استرجاع البيانات المحذوفة</string>
+    <string name="scan_subtitle">استعادة الصور، الفيديوهات، المقاطع الصوتية، والوثائق بدون روت</string>
+    <string name="quick_scan">فحص سريع</string>
+    <string name="deep_scan">فحص عميق وشامل</string>
+    <string name="scanning">جاري الفحص...</string>
+    <string name="scan_photos">استرجاع الصور</string>
+    <string name="scan_videos">استرجاع الفيديوهات</string>
+    <string name="scan_audios">استرجاع الصوتيات والملاحظات</string>
+    <string name="scan_documents">استرجاع الوثائق والملفات</string>
+    <string name="scan_whatsapp">استرجاع وسائط واتساب</string>
+    
+    <string name="restore_selected">استعادة المحدد</string>
+    <string name="export_files">تصدير وحفظ</string>
+    <string name="delete_permanently">حذف نهائي</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="deselect_all">إلغاء التحديد</string>
+    <string name="permission_required">يلزم إذن الوصول للملفات والوسائط</string>
+    <string name="permission_desc">لكي يتمكن التطبيق من فحص الذاكرة وتحديد الملفات والصور القابلة للاسترجاع، يرجى منح إذن الوصول للوسائط والتخزين.</string>
+    <string name="grant_permission">منح الإذن الآن</string>
+</resources>
